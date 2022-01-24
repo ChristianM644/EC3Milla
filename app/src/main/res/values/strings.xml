@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string name="main_title">Lima Bonita</string>
+    <string name="loginName">USER LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button_join">Join</string>
+    <string name="button_cancel">Exit</string>
+    <string name="error_password">Password must contain at least 6 characters</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_description">Description</string>
+    <string name="movie_list">Movie List</string>
+    <string name="see_movies">Movies</string>
+    <string name="welcome">Welcome to CineMark</string>
+
+    <string name="backdrop_movie_home">Home</string>
+    <string name="backdrop_movie_category">Category</string>
+    <string name="backdrop_movie_classification">Clasification</string>
+    <string name="backdrop_movie_promotions">Pomotions</string>
+    <string name="backdrop_movie_candystore">Candie Store</string>
+    <string name="backdrop_movie_account">Account</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="coming_soon">Coming Soon</string>
+
+
+    <string name="my_name">Christian Milla Aquiño</string>
+    <string name="my_phone">Phone Number</string>
+    <string name="edit">Edit Image</string>
+    <string name="your_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dni">Dni</string>
+    <string name="email">Email Address</string>
+    <string name="favorite_theater">Favorite Theater</string>
+    <string name="save">Save</string>
+    <string name="tittle_profile">Profile</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="crypto">Cryptocurrency</string>
+    <string name="apiRest">List of Category Cryptocurrency: Api Rest</string>
+</resources>

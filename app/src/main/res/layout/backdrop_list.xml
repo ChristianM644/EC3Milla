@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_movie_home"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_crypto"
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/crypto"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_movie_classification"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_movie_promotions"
+
+        />
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_movie_candystore"
+
+        />
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="?android:attr/textColorPrimary"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_account"
+        style="@style/Widget.EC3Milla.Button.Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_movie_account"
+
+        />
+
+
+</merge>
